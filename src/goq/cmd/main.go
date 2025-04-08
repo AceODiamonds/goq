@@ -7,6 +7,5 @@ import (
 
 func main() {
 	go_qasm.Qasm_reader("path/to/file.qasm")
-	fmt.Println("Hello, World!")
 
 }
